@@ -10,3 +10,5 @@ int main() {
     delete varManusia;
     return 0;
 }
+
+//program 6
